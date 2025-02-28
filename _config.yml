@@ -3,7 +3,7 @@
 
 title: Base
 url: "https://sca-opdir.github.io/"
-baseurl: "/base-jekyll"
+baseurl: "/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
